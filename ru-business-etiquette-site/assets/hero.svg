@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Письмо, речевые облака и силуэты Москвы и Пекина</title>
+  <desc id="heroDesc">Иллюстрация к теме: деловая переписка на русском и китайском языках.</desc>
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8F1E5"/>
+      <stop offset="1" stop-color="#EEE2CE"/>
+    </linearGradient>
+    <pattern id="heroDots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#D9C9AE"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="500" rx="30" fill="url(#heroBg)"/>
+  <rect x="34" y="38" width="124" height="104" fill="url(#heroDots)" opacity=".8"/>
+  <circle cx="548" cy="78" r="56" fill="#F0DFC2"/>
+  <circle cx="548" cy="78" r="34" fill="#E8D3B0"/>
+
+  <!-- Силуэты: Кремль и пагода -->
+  <g opacity=".95">
+    <path d="M40 452h564v20H40z" fill="#DCC9A9"/>
+    <g>
+      <rect x="84" y="390" width="88" height="62" fill="#E8DAC1"/>
+      <path d="M74 390 128 326l54 64z" fill="#A92A1F"/>
+      <rect x="124" y="298" width="8" height="34" fill="#B3812F"/>
+      <circle cx="128" cy="292" r="7" fill="#B3812F"/>
+      <path d="M98 452v-26a10 10 0 0 1 20 0v26" fill="#1F4E8C" opacity=".75"/>
+      <path d="M138 452v-26a10 10 0 0 1 20 0v26" fill="#1F4E8C" opacity=".75"/>
+    </g>
+    <g transform="translate(12 0)">
+      <rect x="468" y="370" width="104" height="82" fill="#E8DAC1"/>
+      <path d="M436 370q84-32 168 0l-17 12q-67-26-134 0z" fill="#A92A1F"/>
+      <rect x="486" y="314" width="68" height="56" fill="#E8DAC1"/>
+      <path d="M460 314q60-28 120 0l-14 12q-46-22-92 0z" fill="#A92A1F"/>
+      <rect x="516" y="276" width="8" height="22" fill="#B3812F"/>
+      <circle cx="520" cy="270" r="7" fill="#B3812F"/>
+      <path d="M500 452v-30a20 20 0 0 1 40 0v30" fill="#1F4E8C" opacity=".75"/>
+    </g>
+  </g>
+
+  <!-- Конверт -->
+  <g transform="rotate(-4 320 330)">
+    <rect x="190" y="250" width="260" height="174" rx="16" fill="#FFFDF8" stroke="#2A241D" stroke-width="3"/>
+    <path d="M190 266 320 362 450 266" fill="none" stroke="#A92A1F" stroke-width="3"/>
+    <path d="M190 408 280 338M450 408 360 338" stroke="#E2D5C0" stroke-width="2"/>
+    <circle cx="412" cy="386" r="25" fill="#A92A1F"/>
+    <text x="412" y="395" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="21" fill="#FFFDF8">信</text>
+  </g>
+
+  <!-- Речевое облако: русский -->
+  <g>
+    <rect x="50" y="66" width="252" height="102" rx="26" fill="#1F4E8C"/>
+    <path d="M96 166l-12 26 38-20z" fill="#1F4E8C"/>
+    <text x="176" y="130" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="29" fill="#FFFDF8">Здравствуйте!</text>
+  </g>
+
+  <!-- Речевое облако: китайский -->
+  <g>
+    <rect x="374" y="108" width="204" height="88" rx="24" fill="#A92A1F"/>
+    <path d="M536 194l14 24-40-16z" fill="#A92A1F"/>
+    <text x="476" y="164" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="34" fill="#FFFDF8">您好！</text>
+  </g>
+
+  <!-- Декор -->
+  <g fill="#B3812F">
+    <path d="M338 96l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/>
+    <path d="M596 226l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" opacity=".8"/>
+    <circle cx="52" cy="226" r="5"/>
+    <circle cx="612" cy="330" r="4" opacity=".7"/>
+  </g>
+  <circle cx="366" cy="46" r="6" fill="#A92A1F" opacity=".65"/>
+  <circle cx="608" cy="410" r="5" fill="#1F4E8C" opacity=".55"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="g5t g5d">
+  <title id="g5t">Деловое письмо со штампом и скрепкой</title>
+  <desc id="g5d">Лист бумаги с текстом, почтовый штамп, печать и скрепка.</desc>
+  <rect width="320" height="220" rx="26" fill="#F7F0E2"/>
+  <circle cx="286" cy="180" r="34" fill="#F2DAD4"/>
+  <circle cx="36" cy="40" r="38" fill="#DCE7F4"/>
+  <g transform="rotate(3 158 110)">
+    <path d="M90 30h112l38 38v122H90z" fill="#FFFDF8" stroke="#B3812F" stroke-width="3"/>
+    <path d="M202 30v38h38" fill="none" stroke="#B3812F" stroke-width="3"/>
+    <rect x="110" y="82" width="88" height="8" rx="4" fill="#1F4E8C"/>
+    <rect x="110" y="104" width="108" height="6" rx="3" fill="#D8CBB6"/>
+    <rect x="110" y="119" width="108" height="6" rx="3" fill="#D8CBB6"/>
+    <rect x="110" y="134" width="72" height="6" rx="3" fill="#D8CBB6"/>
+    <rect x="110" y="158" width="54" height="4" rx="2" fill="#C9BCA8"/>
+    <g transform="translate(188 148) rotate(-5)">
+      <rect width="38" height="30" rx="3" fill="#F2DAD4" stroke="#A92A1F" stroke-width="2" stroke-dasharray="3 3"/>
+      <path d="M8 8h22M8 15h16M8 22h20" stroke="#A92A1F" stroke-width="1.6" stroke-linecap="round"/>
+    </g>
+  </g>
+  <path d="M108 56c-10 0-16 7-16 16v34c0 7 5 12 12 12s12-5 12-12V64" fill="none" stroke="#1F4E8C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M116 66v34" fill="none" stroke="#1F4E8C" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="268" cy="54" r="4" fill="#B3812F"/>
+  <circle cx="52" cy="176" r="4" fill="#B3812F"/>
+</svg>

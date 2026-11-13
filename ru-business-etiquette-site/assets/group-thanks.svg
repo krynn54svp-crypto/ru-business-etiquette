@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="g6t g6d">
+  <title id="g6t">Чашка чая, пар и сердце</title>
+  <desc id="g6d">Чашка чая на блюдце, пар и маленькое сердце — символ благодарности.</desc>
+  <rect width="320" height="220" rx="26" fill="#F3F0E6"/>
+  <circle cx="48" cy="48" r="42" fill="#DCE7F4"/>
+  <circle cx="286" cy="170" r="34" fill="#F1E4C9"/>
+  <ellipse cx="160" cy="186" rx="82" ry="11" fill="#E5D8BF"/>
+  <path d="M98 104h118v42a55 55 0 0 1-110 0z" fill="#FFFDF8" stroke="#1F4E8C" stroke-width="3"/>
+  <ellipse cx="157" cy="104" rx="59" ry="10" fill="#DCE7F4" stroke="#1F4E8C" stroke-width="3"/>
+  <path d="M216 118h12a25 25 0 0 1 0 50h-14" fill="none" stroke="#1F4E8C" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#B3812F" stroke-width="3" stroke-linecap="round" fill="none" opacity=".9">
+    <path d="M136 92c-8-12 8-16 0-28"/>
+    <path d="M158 88c-8-12 8-16 0-28"/>
+    <path d="M180 92c-8-12 8-16 0-28"/>
+  </g>
+  <path d="M58 62c0-8 12-8 12 0 0-8 12-8 12 0 0 10-12 16-12 16S58 72 58 62z" fill="#A92A1F"/>
+  <g fill="#B3812F">
+    <path d="M262 74l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+    <circle cx="72" cy="150" r="4"/>
+  </g>
+</svg>

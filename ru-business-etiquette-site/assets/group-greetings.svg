@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="g1t g1d">
+  <title id="g1t">Приветствие на русском и китайском</title>
+  <desc id="g1d">Два речевых облака с надписями RU и 你好.</desc>
+  <rect width="320" height="220" rx="26" fill="#F7EFE2"/>
+  <circle cx="272" cy="44" r="54" fill="#F2DAD4"/>
+  <circle cx="38" cy="196" r="30" fill="#F1E4C9"/>
+  <g transform="translate(26 52)">
+    <rect width="176" height="94" rx="24" fill="#1F4E8C"/>
+    <path d="M40 94l-10 24 30-14z" fill="#1F4E8C"/>
+    <text x="88" y="61" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="36" font-weight="700" fill="#FFFDF8">RU</text>
+  </g>
+  <g transform="translate(148 108)">
+    <rect width="146" height="80" rx="22" fill="#A92A1F"/>
+    <path d="M108 80l12 20-32-10z" fill="#A92A1F"/>
+    <text x="73" y="52" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="30" fill="#FFFDF8">你好</text>
+  </g>
+  <g fill="#B3812F">
+    <path d="M236 118l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+    <circle cx="292" cy="158" r="4"/>
+    <circle cx="56" cy="40" r="4" opacity=".7"/>
+  </g>
+</svg>
